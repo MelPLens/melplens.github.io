@@ -1,2 +1,2 @@
-# Girlstech.github.io
+# MelPLens.github.io
 Escola de Programação para mulheres!
